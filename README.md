@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gratia-Mira
+- 🌱 I’m currently learning!
+- 🎯 I usually work on www.gitlab.com/Gratia-Mira , mostly for my website www.gratia-mira.ch. I want to spread real hope with this site! I need GitHub so that I can submit a ticket or a comment on something that seems important to me.
